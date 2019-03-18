@@ -5,6 +5,6 @@
   我喜歡狗和貓
   </h1>
     
-    <img src="https://bit.ly/fcc-relaxing-cat" alt="Relaxing cat"/>
+   <img src="https://bit.ly/fcc-relaxing-cat" alt="Relaxing cat"/>
     
   
